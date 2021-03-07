@@ -28,3 +28,6 @@ function multiply(a, b){
 ### Courses
 RSSchool *"JavaScript/Front-end"* course
 
+## Languages
+
+Russian, English (B2/C1)
