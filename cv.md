@@ -19,3 +19,12 @@ function multiply(a, b){
    return a * b
 }
 ```
+## Education
+
+### Higher education
+* Institution: Belarus State Economic University;
+* Graduation: 2019;
+
+### Courses
+RSSchool *"JavaScript/Front-end"* course
+
