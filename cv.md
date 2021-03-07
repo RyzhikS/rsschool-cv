@@ -30,4 +30,4 @@ RSSchool *"JavaScript/Front-end"* course
 
 ## Languages
 
-Russian, English (B2/C1)
+Russian, English (B2/C1). I finished a two-weeks English language course in Ovingdean Hall College, Brighton, UK.
