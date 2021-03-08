@@ -1,0 +1,47 @@
+body {
+margin: auto;
+width: 70%;
+font-family: Georgia, serif;
+font-size: 18px; }
+
+header {
+    margin: 0, auto;
+    padding: 20px 20px 10px;
+    border-bottom: 3px solid rgb(43, 43, 43);  
+    background-color: rgba(129, 131, 114, 0.664);
+      
+}
+
+section {
+border-top: 1px solid rgb(49, 49, 49);
+border-bottom: 1px solid rgb(49, 49, 49);  
+margin-left: 5%;
+background-color: rgba(181, 203, 207, 0.932);
+}
+
+section:hover {
+    background-color: rgb(169, 199, 230);
+}
+
+p {
+    margin-left: 12%;
+}
+
+li {
+    margin-left: 12%;
+}   
+
+code {
+    display: block;
+    margin-left: 12%;
+    min-width: 25%;
+    
+}
+
+h2 {
+    margin-left: 5%;
+}
+
+h3 {
+    margin-left: 10%;
+}
