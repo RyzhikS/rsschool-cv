@@ -69,5 +69,7 @@ footer {
     width: 120px;
 }
 #me {
-   height: 180px; 
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
